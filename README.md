@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @areetamjed10
+- 👋 Hi, I’m @areetam
 - 👀 I’m interested in electronics
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on games
